@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Коммерческое предложение №1</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <a href="#">Скачать PDF</a><br><br>
+      <a href="#">Отправить ссылку</a>
+      <div class="footer_links">
+        <a href="#">Профиль</a>
+        <a href="#">Мои КП</a>
+        <a href="#">Выйти</a>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="header">Коммерческое предложение №1</div>
+      <div class="form_grid">
+        <input type="text" placeholder="Клиент" />
+        <input type="text" placeholder="Менеджер" />
+        <input type="text" placeholder="Телефон" />
+        <input type="text" placeholder="E-mail" />
+        <input type="text" placeholder="Дата" />
+      </div>
+
+      <div class="buttons_group">
+        <button>Добавить товар</button>
+        <button>Настроить отображение параметров</button>
+      </div class="another_picture">
+      <div\>
+
+      <div class="product_card">
+        <h3>Бафф Nesse, серый</h3>
+        <p>Цена за ед: 480.00 ₽</p>
+        <p>Тираж: 172 × 22 = 0.00 ₽</p>
+        <p>Цена за ед. с нанесением: 480.00 ₽</p>
+        <p>Стоимость за тираж: 4 800.00 ₽</p>
+        <div class="product_info">
+          <div>Цвет:</strong> серый</div>
+          <div>Вес: 75.00</div>
+          <div>Габариты: 28×29 см</div>
+          <div>Материал: полиэстер 100%, плотность 300 г/м², флис</div>
+        </div>
+      </div>
+
+      <div class="description">
+        Коллекция Nesse — это комфортные флисовые изделия для активной жизни, где все по максимуму — и драйв, и удобство. Лаконичное исполнение и внимание к деталям делает эту одежду и аксессуары всегда актуальными и универсальными как для женщин, так и мужчин. Расслабленная прогулка в городе, зимняя рыбалка, покорение горнолыжного склона или байкерский заезд — в любой ситуации хочется носить Nesse.<br><br>
+        Бафф можно носить как шарф или защитную маску. Регулируется утягивающим шнурком, что делает его универсальным по размеру и позволяет удобно фиксировать.
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
+
